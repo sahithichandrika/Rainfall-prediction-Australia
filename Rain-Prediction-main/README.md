@@ -10,7 +10,7 @@ Out of these models catboost performed very well giving an AUC score around and 
 # Tech Stack
 * Front-End: HTML, CSS, Bootstrap
 * Back-End: Flask
-* IDE: Jupyter notebook, Pycharm
+* IDE: Jupyter notebook
 
 # How to run this app
 * First create a virtual environment by using this command:
